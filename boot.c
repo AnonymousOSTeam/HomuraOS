@@ -1,3 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <homura/drivers.h>
+#include <homura/kernel.h
+#include <arpa/inettypes.h>
+#include <arpa/inet.h>
+#include <fcntl.h>
+
+int main(int argc, char *argc[]) {
+      // SEU CÓDIGO AQUI
+      printf("HomuraOSIntepreter - CyberTechSystems");
+usleep(10000); // AQUI NOS ADICIONAMOS 10 MILISSEGUNDOS PARA EVITAR SERMOS DETECTADOS POR CYBERCRIMINOSOS
+flzero *flflags(int flflags * flzero, char *fzero, int banners);
+printf("sistema inicializado\n");
+scanf("saindo do sistema...\n");
+return 0;
+}
 // Here we add the boot segments
 * HomuraOS - Kernel: v.0.1.0
 * Author Name - Diego Rêgo
